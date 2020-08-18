@@ -41,4 +41,4 @@ In this repository ill be exploring react.js framework with [Rocketseat]('http:/
     }
 ```
 
-`Those are the most important discoveries i have found, ill add more while i find more source of information`
+`Those are the most important discoveries i have found, i'll add more while i find more source of information`
