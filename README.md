@@ -1,6 +1,6 @@
 # React.js app
 
-In this repository ill be exploring react.js framework with [Rocketseat]('http://app.rocketseat.com.br/) platform.
+In this repository ill be exploring react.js framework with [Rocketseat]('http://app.rocketseat.com.br/) platform, and [React.js]('https://reactjs.org/') documentations.
 
 ## Discoveries
 
